@@ -14,5 +14,4 @@ x2=y//10 #2
 z=var_int%1000 #723
 x3=z//100 #7
 x4=var_int//1000 #6
-sum_even =(x1+1)%2+(x2+1)%2+(x3+1)%2+(x4+1)%2
-print(sum_even)
+print(((x1+1)%2+(x2+1)%2+(x3+1)%2+(x4+1)%2)+sum_even)
