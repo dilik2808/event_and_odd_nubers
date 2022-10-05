@@ -1,5 +1,5 @@
 #A four-digit integer is given. Find the number of even digits in it.
-var_int = 1111
+var_int = 7852
 #Create a variable "var_int" and assign it a four-digit integer value.
 x1 = var_int%10#8
 y= var_int%100#48
